@@ -7,3 +7,4 @@
 <a href="https://app.codiga.io/public/user/github/Rajeshkumar1234">
    <img src="https://api.codiga.io/public/badge/user/github/Rajeshkumar1234?style=light" alt="codiga badge" />
 </a>
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b4174dcf32974731a2c89cb4d32a27bb)](https://www.codacy.com/gh/Rajeshkumar1234/M1_Project_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rajeshkumar1234/M1_Project_2022&amp;utm_campaign=Badge_Grade)
